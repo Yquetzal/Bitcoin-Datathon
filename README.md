@@ -1,5 +1,4 @@
 # Bitcoin-Datathon
-Simplified network-like data about 2 days on Bitcoin
 
 ## Context
 This dataset is composed of various files corresponding to 2 days of activity in the Bitcoin Blockchain.
