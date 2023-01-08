@@ -10,6 +10,12 @@ A first series of files [addresses](http://cazabetremy.fr/datasets/bitcoin2days/
 Another file corresponds to a simplified view, a **network** view, in which each line corresponds to a transaction from one entity to another entity. In this form, some information is lost, but it can be simpler to manipulate. The data is provided in two formats, [network.csv](http://cazabetremy.fr/datasets/bitcoin2days/2days_entity_network.csv) and [network.parquet](http://cazabetremy.fr/datasets/bitcoin2days/2days_entity_network.parquet).
 
 ## Getting started
+The best way to getting started with those files is by following their corresponding notebooks, that explain the content and show how to start analyzing them.
+These notebooks are in this repository:
+[Bitcoin Transaction Data](https://github.com/Yquetzal/Bitcoin-Datathon/blob/main/Bitcoin%20Transaction%20Data.ipynb)
+[Entity Network 101](https://github.com/Yquetzal/Bitcoin-Datathon/blob/main/Entity_network_101.ipynb)
+
+Note: this notebooks are ready to run in google colab or any other online notebook editor.
 
 
 
